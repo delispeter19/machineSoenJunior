@@ -1,0 +1,2 @@
+# machineSoenJunior
+showing ppl git
